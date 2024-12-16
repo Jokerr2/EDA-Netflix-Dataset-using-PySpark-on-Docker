@@ -1,6 +1,3 @@
-
-by Hammad Asif 2021374
-
 # EDA-Netflix-Dataset-using-PySpark-on-Docker
 This project demonstrates how to perform Exploratory Data Analysis (EDA) on the Netflix dataset using PySpark in a Jupyter Notebook environment. It involves setting up Spark, loading a dataset, performing basic data cleaning, and visualizing the results. All of it is runnning on a container in Docker.
 ##  How Does it Work?
@@ -84,4 +81,3 @@ df.show()
 9. EDA is performed on the Dataset in the ipynb file uploaded.
 
 10. After performing EDA upload it on Github.
-
